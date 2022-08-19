@@ -8,7 +8,7 @@ ___
 ## 安装
 本项目基于c语言编写，您可以直接选择下载msi安装运行，也可以下载源码进行修改，对未打包程序的修改需要Easyx图形库的支持，请您提前安装。
 ## 使用与基本介绍
-请观看以下视频
+[请点击观看视频](https://github.com/CHGeronimo/Basic-Sorting-Visualization_Chinese/blob/main/%E4%BB%8B%E7%BB%8D/%E6%BC%94%E7%A4%BA.mp4)
 ## 主要项目负责人
 NCU.[CHGeronimo](https://github.com/CHGeronimo)
 ## 开源协议
